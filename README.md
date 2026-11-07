@@ -62,19 +62,19 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="./assets/gif-slot.svg" width="100%" alt="Granblue Fantasy gif"/>
+      <img src="./assets/gifs/gbf.gif" width="100%" alt="Granblue Fantasy gif"/>
       <br/><b>GRANBLUE FANTASY</b>
       <br/><img src="https://img.shields.io/badge/GENRE-RPG-1e6fe0?style=flat-square&labelColor=030a18"/>
       <br/><sub>Skyfarer since forever. The grind never ends.</sub>
     </td>
     <td align="center" width="33%">
-      <img src="./assets/gif-slot.svg" width="100%" alt="Arknights gif"/>
+      <img src="./assets/gifs/arknights.gif" width="100%" alt="Arknights gif"/>
       <br/><b>ARKNIGHTS</b>
       <br/><img src="https://img.shields.io/badge/GENRE-TOWER_DEFENSE-1e6fe0?style=flat-square&labelColor=030a18"/>
       <br/><sub>Doctor on duty. Sanity always at zero.</sub>
     </td>
     <td align="center" width="33%">
-      <img src="./assets/gif-slot.svg" width="100%" alt="The Outlast Trials gif"/>
+      <img src="./assets/gifs/outlast.gif" width="100%" alt="The Outlast Trials gif"/>
       <br/><b>THE OUTLAST TRIALS</b>
       <br/><img src="https://img.shields.io/badge/GENRE-CO--OP_HORROR-1e6fe0?style=flat-square&labelColor=030a18"/>
       <br/><sub>Screaming with friends, professionally.</sub>
