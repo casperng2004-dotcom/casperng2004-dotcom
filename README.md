@@ -15,8 +15,8 @@
 ## `01` ▸ PILOT DATA ⟨ 基本情報 ⟩
 
 ```diff
-+ IDENT ........... YHCHAN
-+ ROLE ............ 3D ARTIST / GAME DEV HOBBYIST
++ IDENT ........... Casper
++ ROLE ............ 3D ARTIST(noob) / GAME DEV HOBBYIST
 + BASE ............ MALAYSIA
 + CURRENT TASK .... Blender scenes, model kits & random Python scripts
 + OFF-DUTY ........ Music · Model kits · Drawing
