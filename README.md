@@ -1,5 +1,5 @@
 <!-- Replace YOUR_USERNAME everywhere with your new GitHub username -->
-
+<!-->
 <p align="center">
   <img src="./assets/header.svg" alt="Personal terminal header with system cooldown countdown" width="100%"/>
 </p>
